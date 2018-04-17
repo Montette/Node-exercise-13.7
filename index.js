@@ -6,7 +6,6 @@ fs.readdir('./', function (err, files) {
     console.log('Content of the folder: '.magenta);
     var text = [];
     for (let file of files) {
-        var path = './' + file;
         var fileSize = fs.statSync(file).size;
         var unit = "B";
         if (fileSize > 1024) {
