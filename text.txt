@@ -1,0 +1,1 @@
+name: cat.jpg,size: 63.3kB,name: index.js,size: 748B,name: node_modules,size: 0B,name: package-lock.json,size: 537B,name: package.json,size: 304B,name: text.txt,size: 69B
